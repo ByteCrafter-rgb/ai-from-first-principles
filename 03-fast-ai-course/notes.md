@@ -10,4 +10,6 @@ Remarks:
 - To be resumed at 37:05
 - Completed the Lesson 3 from fast ai course.
 - Learnt about Linear algebra and forming simple neural networks from matrix mulitplications.
-
+- Completed the lesson 4, learnt about NLP basics, tokeization, kaggle comptetions
+for NLP etc.
+- Next will be chapter 5.
