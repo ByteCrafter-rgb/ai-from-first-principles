@@ -13,3 +13,5 @@ Remarks:
 - Completed the lesson 4, learnt about NLP basics, tokeization, kaggle comptetions
 for NLP etc.
 - Next will be chapter 5.
+- Done chapter 5 till 1:05 hours
+- Learning about training neural networks through python libraries
