@@ -14,4 +14,5 @@ Remarks:
 for NLP etc.
 - Next will be chapter 5.
 - Done chapter 5 till 1:05 hours
-- Learning about training neural networks through python libraries
+- Learning about training neural networks through python libraries.
+- Completed chapter 5 , didnt understand much , but it was mostly about titanic data correlation and loss function optimization, first with a single layer then with 2 layers whcih can be called deep learning neural network.
