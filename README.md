@@ -3,8 +3,8 @@ In this repo I will rigorously document what I learn about transformers and LLMs
 
 ## Progress
 
-- [✅] PyTorch fundamentals
-- [✅] Linear Regression
-- [ ] Neural Networks
+- [x] PyTorch fundamentals
+- [x] Linear Regression
+- [x] Neural Networks
 - [ ] Transformers
 - [ ] nanoGPT
